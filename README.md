@@ -2,9 +2,7 @@
 
 ### A Junior Front-End Developer || seeking opportunities to learn and grow
 
-&emsp;
-
-<font color="#0008B">Passion and continuous learning are essential parts of my approach to coding, and I believe that the best results come from working with others to achieve a common goal. I am eager to gain more experience in this evolving field.</font>
+Passion and continuous learning are essential parts of my approach to coding, and I believe that the best results come from working with others to achieve a common goal. I am eager to gain more experience in this evolving field.
 
 🔭 My most recent project [To-do List (React)](https://to-do-list-react-delta-one.vercel.app/login)
 
@@ -20,4 +18,5 @@
 ## Skills
 
 ![Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,vscode,git,github,figma)
+
 # CrystalD27
