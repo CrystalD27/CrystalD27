@@ -23,7 +23,7 @@ Passion and continuous learning are essential parts of my approach to coding, an
 
 ## Project
 
-- To-Do List | [Repo](https://github.com/kewinpyza/mapMyTrainings-app) | [Page](https://mapmytrainings-kpyza.netlify.app/) |
+- To-Do List | [Repo](https://github.com/CrystalD27/myToDos) | [Page](https://to-do-list-react-delta-one.vercel.app/login) |
 
 | React.js | React-Hook-Form | React-Router-Dom | Restful API | Tailwindcss | RWD |
 
