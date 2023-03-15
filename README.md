@@ -4,7 +4,7 @@
 
 Passion and continuous learning are essential parts of my approach to coding, and I believe that the best results come from working with others to achieve a common goal. I am eager to gain more experience in this evolving field.
 
-![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystald27&show_icons=true&locale=en)
+[![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystald27)](https://github.com/crystald27/github-readme-stats)
 
 ## Languages
 
