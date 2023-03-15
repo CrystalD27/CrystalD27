@@ -4,8 +4,6 @@
 
 Passion and continuous learning are essential parts of my approach to coding, and I believe that the best results come from working with others to achieve a common goal. I am eager to gain more experience in this evolving field.
 
-🔭 My most recent project [To-do List (React)](https://to-do-list-react-delta-one.vercel.app/login)
-
 ![Crystal's GitHub stats](https://github-readme-stats.vercel.app/api?username=crystald27&show_icons=true&locale=en)
 
 ## Languages
@@ -19,4 +17,14 @@ Passion and continuous learning are essential parts of my approach to coding, an
 
 ![Skills](https://skillicons.dev/icons?i=sass,bootstrap,tailwind,react,vscode,git,github,figma)
 
-# CrystalD27
+## I'm learning now
+
+![Learning](https://skillicons.dev/icons?i=redux,typescript)
+
+## Project
+
+- To-Do List | [Repo](https://github.com/kewinpyza/mapMyTrainings-app) | [Page](https://mapmytrainings-kpyza.netlify.app/) |
+
+| React.js | React-Hook-Form | React-Router-Dom | Restful API | Tailwindcss | RWD |
+
+myToDos allows user to register, log in, and log out with ease. Adding new items to the to-do list is simple and straightforward, as all it takes is a single click of the " + " button. By clicking " x ", the item can be deleted. The app also sorts and displays data in an easy-to-read chart that can be filtered based on the status of the items. To make changes to any items, users can simply click on them to edit the details, and any changes made are automatically saved once they click outside of the edit field. To get started, users can either log in using the provided credentials (Email: 456@gmail.com / Password: 123456) or create their own unique login.
